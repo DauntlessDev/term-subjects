@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    display: inline-flex;
+    width: 100%;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    background-color: rgb(24, 26, 26);
+    
+}
+
+table {
+    background-color: rgb(24, 26, 26);
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+    width: 45%;
+}
+
+.link, a{
+    text-decoration: none;
+    color: rgb(102, 76, 174);
+    font-weight: bold;
+    font-size: 30px;
+}
+
+th {
+    color: lightcoral;
+    font-size: 22px;
+}
+
+th{
+    padding-bottom: 25px;
+
+} td {
+    padding-bottom: 15px;
+}
+
+img {
+    width: 53%;
+}
